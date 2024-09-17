@@ -1,4 +1,4 @@
 # TripAdvisor
-- Scrapper 
+- Scraper 
 - Natural Language Process
 - Sentiment Dictionary
